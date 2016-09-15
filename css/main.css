@@ -27,7 +27,10 @@ span {
 	padding: 46px;
 	color: white;
 	font-size: small;
+	text-decoration: none;
+	display: inline-block;
 }
+
 .texto_del_studio {
 	background:url(../img/img-1.jpg);
 	background-size: cover;
@@ -105,4 +108,211 @@ h3{
 	font-family: "Prompt";
 }
 
-.col-2
+/*Section Conejos más grandes*/
+
+.colorconejosmasgrandes{
+	background-color: #027e99;
+}
+
+.conejo5{
+	width: 517px;
+	height: 300px;
+	padding: 10px;
+	padding-bottom: 0px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.conejo6,.conejo3{
+	width: 310px;
+	height: 225px;
+	margin-right: 27px;
+}
+
+.conejo3{
+	margin-top: 15px;
+}
+
+.buscador{
+    width: 92%;
+    height: 50px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin: 10px;
+	border: none;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.fondobuscador{
+	background-color: #ecf7fb;
+	width: 93%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+.fa{
+	font-size: 15px;
+	color: blue;
+}
+
+.circulo{
+	background-color: white;
+	border-radius: 50%;
+	padding: 5px;
+	width: 17px;
+	height: 17px;
+	display: inline-block;
+	float: left;
+	margin-right: 30px;
+}
+
+.redessociales{
+	display: inline-block;
+	float: left;
+	margin-left: 60px;
+}
+
+.titulosrosas{
+	color: #ff7673;
+	font-family: "Baloo Paaji";
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.contenedorblanco1{
+	background-color: #ecf7fb;
+	margin-left: 27px;
+	margin-right: 19px;
+	margin-top: -7px;
+	width: 517px;
+}
+
+.contenedorblanco2{
+	background-color: #ecf7fb;
+	margin-right: 23px;
+	height: 170px;
+	margin-top: -7px;
+	width: 310px;
+}
+
+.contenedorblanco3{
+	background-color: #ecf7fb;
+	margin-left: 27px;
+	margin-right: 20px;
+	margin-top: -7px;
+	width: 517px;
+}
+
+.contenedorblanco4{
+	background-color: #ecf7fb;
+	margin-right: 23px;
+	height: 170px;
+	margin-top: -6px;
+	width: 310px;
+}
+
+.columnalargaderecha{
+	height: 970px;
+}
+
+.columnalargaizquierda{
+	height: 970px;
+}
+
+.video{
+	width: 517px;
+	height: 315px;
+	margin-left: 10px;
+}
+
+.tale{
+	margin-bottom: 0px;
+	margin-left: 20px;
+	font-family: "Prompt";
+	font-size: 13px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+.rule{
+	margin-top: -3px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	font-family: "Prompt";
+	font-size: 13px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-top: 20px;
+	text-align: left;
+}
+
+.shall{
+	margin-bottom: 0px;
+	margin-left: 20px;
+	font-family: "Prompt";
+	font-size: 13px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+.you{
+	margin-bottom: 0px;
+	margin-left: 20px;
+	font-family: "Prompt";
+	font-size: 13px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	text-align: left;
+}
+
+.col-offset-2{
+	background-color: #ecf7fb;
+	height: 970px;
+}
+
+.año{
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+.conejitosfinal{
+	width: 110px;
+	height: 80px;
+	margin-top: 10px;
+	margin-left: 26px;
+	margin-right: 26px;
+}
+
+.colorfinal{
+	background-color: #ecf7fb;
+}
+
+
+/*Fin section conejos más grandes*/
+
+/*Inicio footer*/
+
+.copy{
+	background-color: #027e99;
+	border-top: 3px solid #ff7673;
+	height: 100px;
+}
+
+.copyright{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 30px;
+	font-family: "Baloo Paaji";
+}
+
+/*Fin footer*/
