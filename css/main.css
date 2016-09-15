@@ -1,0 +1,108 @@
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	font-family:"Prompt";
+}
+
+.header_background {
+	background: #027E99;
+	height: 115px;
+}
+
+h1{
+	position: absolute;
+	padding: 28px;
+	font-family: "Baloo Paaji";
+	color:white;
+	margin-left: 0px;
+}
+
+span {
+	color: #FF7673;
+	font-family: "Baloo Paaji";
+}
+
+.menu {
+	padding: 46px;
+	color: white;
+	font-size: small;
+}
+.texto_del_studio {
+	background:url(../img/img-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 505px;
+}
+
+.background_celeste1 {
+	background: #ECF7FB;
+	height: 505px;	
+}
+
+.background_celeste2 {
+	background: #ECF7FB;
+	height: 149px;	
+}
+
+.background_celeste3 {
+	background: #ECF7FB;
+	height: 216px;	
+}
+.transparencia {
+	background:rgba(2,126,152,0.7) ;
+	position: absolute;
+	width: 730px;
+	height: 350px;
+	margin-top: 80px;
+	margin-left: 65px;
+}
+
+.titulo_grande {
+	color: #FF7673;
+	font-family: "Baloo Paaji";
+	font-size: 115px;
+	text-align: center;
+	padding-top: 49px;
+}
+
+.subtitulo{
+	color:white;
+	text-align: center;
+	margin: auto;
+	padding: 16px;
+	font-style: italic;
+	font-family:"Prompt"; 
+}
+
+
+.background_2{
+	background: #027E99;
+	height: 220px;
+	width: 184px;
+	margin:auto;
+	margin-top: -14px;
+	font-size: small;
+}
+
+.img_tales {
+	max-height: 115px;
+	padding-top:20px;
+}
+
+h3{
+	color:#FF7673;
+	text-align: center;
+	padding-top:20px;
+	font-family: "Baloo Paaji";
+	margin-top: -4px;
+}
+
+.pilar {
+	color:white;
+	text-align: center;
+	padding:20px 20px 0px 20px;
+	font-family: "Prompt";
+}
+
+.col-2
