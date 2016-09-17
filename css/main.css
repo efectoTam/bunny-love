@@ -316,3 +316,39 @@ h3{
 }
 
 /*Fin footer*/
+
+/*Inicio RESPONSIVE*/
+
+@media only screen and (max-width : 479px) {
+
+	h1{
+		font-size: 25px;
+	}
+
+	.menu{
+		padding: 2px;
+	}
+
+	.texto_del_studio{
+		background-size: 100%;
+		margin-top: -505px;
+	}
+
+	.transparencia{
+		margin-left: 18px;
+		margin-top: 20px;
+		width: 86%;
+		height: 190px;
+	}
+
+	.titulo_grande{
+		max-width: 100%;
+		font-size: 35px;
+	}
+
+	.menu{
+		color: #027E99;
+	}
+
+
+}
